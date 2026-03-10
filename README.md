@@ -17,4 +17,4 @@ streamlit_app/  → Streamlit dashboard
 2. Clean CSV: `python scripts/data_cleaning.py`  
 3. Insert restaurants: `python scripts/mysql_insert.py`  
 4. Insert orders: `python scripts/json_to_sql.py`  
-5. Run dashboard: `streamlit run streamlit_app/app.py`
+5. Run dashboard: `streamlit run streamlit_app/app.py`# uber_eats_analysis_project
