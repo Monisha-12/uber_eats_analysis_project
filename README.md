@@ -122,6 +122,24 @@ data/           → raw and processed datasets
 scripts/        → data cleaning and MySQL insertion  
 streamlit_app/  → Streamlit dashboard
 
+# Streamlit Screenshots
+
+## Dashboard Page
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Business Q&A Page
+
+![Q&A Page](screenshots/qa_page.png)
+
+---
+
+## Order Analytics Page
+
+![Order Analytics](screenshots/order_analytics.png)
+
 ## How to Run
 
 1. Install requirements: `pip install -r requirements.txt`  
