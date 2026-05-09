@@ -2,6 +2,7 @@ import streamlit as st
 import mysql.connector
 from qa_page import show_qa_page  # import the function
 import pandas as pd
+import getpass
 
 st.title("Uber Eats Bangalore Analytics Dashboard")
 
@@ -9,7 +10,7 @@ st.title("Uber Eats Bangalore Analytics Dashboard")
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Monisha@1207",
+    password = getpass.getpass("Enter MySQL password: "),
     database="uber_eats_db"
 )
 
