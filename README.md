@@ -123,18 +123,15 @@ scripts/        → data cleaning and MySQL insertion
 streamlit_app/  → Streamlit dashboard
 
 # Streamlit Screenshots
+# Streamlit Screenshots
 
 ## Dashboard Page
 
 ![Dashboard](screenshots/dashboard.png)
 
----
-
 ## Business Q&A Page
 
 ![Q&A Page](screenshots/qa_page.png)
-
----
 
 ## Order Analytics Page
 
